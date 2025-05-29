@@ -1,6 +1,9 @@
 # iPhone-Sale-Analysis
+
 📊 iPhone Sales Analysis Project
+
 🔍 Overview
+
 This project focuses on analyzing iPhone sales data to gain actionable insights into product performance, customer preferences, and rating patterns. Using real-world data scraped from e-commerce platforms, we explored trends in product popularity, pricing, user ratings, and customer reviews.
 
 🧰 Tools & Libraries Used
